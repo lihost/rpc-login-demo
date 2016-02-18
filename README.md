@@ -1,10 +1,10 @@
 # rpc-login-demo
 This is example of RPC login system based on SUN RPC in UNIX
 
-## COMPILE
+#### COMPILE
 `make -f Makefile.rpclogin`
 
-## RUN
+#### RUN
 Start two separate terminal:
 
 * terminal 1:  `./rpclogin_server`
